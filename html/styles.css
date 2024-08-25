@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+.drop-area {
+    border: 2px dashed #cccccc;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+#canvas {
+    border: 1px solid #cccccc;
+    margin-bottom: 20px;
+}
+
+pre {
+    text-align: left;
+    white-space: pre-wrap;
+    background-color: #ffffff;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    display: inline-block;
+    max-width: 100%;
+    overflow-x: auto;
+}
