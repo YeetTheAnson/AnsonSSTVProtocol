@@ -5,7 +5,7 @@ A custom sstv protocol i made, with a website that can encode and decode (curren
 
 https://github.com/user-attachments/assets/8096cb0a-f1f8-4a96-920f-04ccefba3899
 
-Visit the site and try out the game yourself [AnsonSSTVProtocol](https://yeettheanson.github.io/AnsonSSTVProtocol/index.html)
+Visit the site and try out the site yourself [AnsonSSTVProtocol](https://yeettheanson.github.io/AnsonSSTVProtocol/index.html)
 
 
 > [!IMPORTANT]  
